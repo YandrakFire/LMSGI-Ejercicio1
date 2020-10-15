@@ -1,4 +1,4 @@
-**# LMSGI-Ejercicio1**
+# LMSGI-Ejercicio1
 
 **Ejercicio de Feedback número 1 de la Asignatura Lenguaje de Marcas y Sistemas de Gestión de la Información** del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en la *Universidad Alfonso X El Sabio* (UAX).
 
